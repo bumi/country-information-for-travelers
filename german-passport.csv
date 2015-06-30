@@ -1,0 +1,95 @@
+Continent,Country,⚠,Visa needed pre-visit?,Duration,Language(s),Currency (:$),Auswärtiges Amt information
+Africa,Algeria,⚠,yes,,Arabic,Algerian dinar (100:1.25),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/AlgerienSicherheit_node.html
+Africa,Angola,,yes,,Portuguese,Angolan kwanza (96.31:1),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/AngolaSicherheit_node.html
+Africa,Burundi,,yes,apparently available at entry (Bujumbara),"French, Kirundi","Burundian franc (1,551:1)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/BurundiSicherheit_node.html
+Africa,Ethiopia,,yes,"available at entry (Addis Ababa) ($20), 3 months; transfer ticket required","Amharic, English",Ethiopian birr (18.73:1),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/AethiopienSicherheit_node.html
+Africa,Kenya,,yes,"available at entry ($50), 12 weeks; transfer ticket required","Swahili, English",Kenyan shilling (100:1.16),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KeniaSicherheit_node.html
+Africa,Lesotho,,no,transfer ticket required,"English, Sotho",Lesotho loti (10.6:1),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/LesothoSicherheit_node.html
+Africa,Malawi,,no,90 days,English,Malawian kwacha (423:1),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/MalawiSicherheit_node.html
+Africa,Morocco,⚠,no,90 days,"Arabic, Berber","Moroccan dirham (1:0:12)
+",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/MarokkoSicherheit_node.html
+Africa,Mozambique,,yes,,Portuguese,Mozambican metical (31:1),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/MosambikSicherheit_node.html
+Africa,Namibia,,no,90 days,English,Namibian dollar (1:0.10),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/NamibiaSicherheit_node.html
+Africa,Rwanda,,no,,"French, English, Kinyarwanda","Rwandan franc (1,000:1.47)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/RuandaSicherheit_node.html
+Africa,Senegal,,n/a,available online,French,West African CFA franc (100:0.21),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SenegalSicherheit_node.html
+Africa,Somalia,⚠,n/a,,"Somali, Arabic","Somali shilling (1,199:1)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SomaliaSicherheit_node.html
+Africa,South Africa,,no,up to 90 days; transfer ticket required,"Isi Zulu, Isi Xhosa, Afrikaans, Sepedi, English, &c.",South African rand (1:0.10),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SuedafrikaSicherheit_node.html
+Africa,Sudan,⚠,yes,,Arabic,Sudanese pound (1:0.23),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SudanSicherheit_node.html
+Africa,Swaziland,,no,14 days,"English, Swati",Swazi lilangeni (100:9.5),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SwasilandSicherheit_node.html
+Africa,Tanzania,,yes,,"Swahili, English","Tanzanian shilling (1,000:0.62)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/TansaniaSicherheit_node.html
+Africa,Togo,,n/a,"apparently (!) available at airport, up to 1 week",French,West African CFA franc (100:0.21),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/TogoSicherheit_node.html
+Africa,Uganda,,yes,available at entry (Entebbe) ($50),"English, Swahili","Ugandan shilling (1,000:0.41)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/UgandaSicherheit_node.html
+Africa,Zambia,,n/a,apparently (!) available at entry ($50),English,"Zambian kwacha (5,710:1)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SambiaSicherheit_node.html
+"Africa, Asia",Egypt,⚠,no,14 days?,Arabic,Egyptian pound (1:0.14),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/AegyptenSicherheit_node.html
+Asia,Afghanistan,,yes,,"Pashto, Farsi",Afghan afghani (10:0.18),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/AfghanistanSicherheit_node.html
+Asia,Armenia,,no,180 days,Armenian,"Armenian dram (414:1)
+",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/ArmenienSicherheit_node.html
+Asia,Bahrain,,no,14 days,Arabic,Bahraini dinar (1:2.65),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/BahrainSicherheit_node.html
+Asia,Bangladesh,,yes,15 days,Bengali,Bangladeshi taka (100:1.29),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/BangladeschSicherheit_node.html
+Asia,Bhutan,,yes,,Dzongkha,Bhutanese ngultrum (100:1.64),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/BhutanSicherheit_node.html
+Asia,Cambodia,,yes,"available at entry (limited!), 30 days?",Khmer,"Cambodian riel (1,000:0.25)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/KambodschaSicherheit.html
+Asia,China,,yes,maybe through visaforchina.org?,Mandarin,Renminbi (1:0.16),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/ChinaSicherheit_node.html
+Asia,Hong Kong,,no,90 days,"Cantonese, English",Hong Kong dollar (1:0.13),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/HongkongSicherheit_node.html
+Asia,India,,yes,,"Hindi, English",Indian rupee (100:1.61),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/IndienSicherheit_node.html
+Asia,Indonesia,,yes,"available at entry ($25), 30 days",Indonesian,"Indonesian rupiah (10,000:0.85)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/IndonesienSicherheit_node.html
+Asia,Iran,,yes,,Persian,"Iranian rial (24,894:1)",http://auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/IranSicherheit_node.html
+Asia,Iran,,yes,14 days,Persian,"Iranian rial (10,000:0.39)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/IranSicherheit_node.html
+Asia,Israel,,no,3 months,"Hebrew, Arabic",Israeli new shekel (1:0.28),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/IsraelSicherheit_node.html
+Asia,Japan,,no,180 days,Japanese,Japanese yen (100:0.98),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/JapanSicherheit.html
+Asia,Jordan,,no,28 days,"Arabic, English",Jordanian dinar (1:1.41),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/JordanienSicherheit_node.html
+Asia,Kuwait,,n/a,no entry with Israel stamp,Arabic,Kuwaiti dinar (1:3.55),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KuwaitSicherheit_node.html
+Asia,Kyrgyzstan,,no,60 days,"Kyrgyz, Russian",Kyrgyzstani som (100:1.92),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KirgisistanSicherheit_node.html
+Asia,Laos,,yes,"available at entry (limited!), 30 days?",Lao,"Lao kip (1,000:0.12)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/LaosSicherheit.html
+Asia,Lebanon,,n/a,"1 month, but no entry with Israel stamp",Arabic,"Lebanese pound (1,000:0.66)",http://auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/LibanonSicherheit_node.html
+Asia,Malaysia,,no,3 months,Malaysian,Malaysian ringgit (1:0.31),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/MalaysiaSicherheit_node.html
+Asia,Myanmar (Burma),,yes,,Burmese,"Burmese kyat (1,000:1.02)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/MyanmarSicherheit_node.html
+Asia,Nepal,,yes,"available at entry ($40, pass photo)",Nepali,Nepalese rupee (100:1.03),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/NepalSicherheit.html
+Asia,Oman,,yes,"available at entry (Muscat), 10+ days","Arabic, English",Omani rial (1:2.60),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/OmanSicherheit_node.html
+Asia,Pakistan,,yes,,"Urdu, English",Pakistani rupee (100:0.97),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/PakistanSicherheit_node.html
+Asia,Philippines,,no,30 days,"English, Filipino",Philippine peso (100:2.23),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/PhilippinenSicherheit_node.html
+Asia,Qatar,,no,30 days,Arabic,Qatari riyal (1:0.27),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KatarSicherheit_node.html
+Asia,Saudi Arabia,,yes,,,Saudi riyal (1:0.27),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SaudiArabienSicherheit_node.html
+Asia,Singapore,,no,90 days,"English, Malay, Tamil, Chinese",Singapore dollar (1:0.80),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SingapurSicherheit_node.html
+Asia,South Korea,,no,90 days,Korean,"South Korean won (1,000:0.97)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KoreaRepublikSicherheit_node.html
+Asia,Taiwan,,no,90 days; transfer ticket required,Mandarin,New Taiwan dollar (10:0.33),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/TaiwanSicherheit.html
+Asia,Tajikistan,,yes,available at entry (if entering from a country without Tajikistan embassy),"Tajik, Russian, Persian",Tajikistani somoni (1:0.20),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/TadschikistanSicherheit_node.html
+Asia,Thailand,⚠,no,30+ days,Thai,Thai baht (100:3.30),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/ThailandSicherheit_node.html
+Asia,Turkmenistan,,yes,,Turkmen,Turkmenistan manat (1:0.35),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/TurkmenistanSicherheit_node.html
+Asia,United Arab Emirates,,no,30 days,Arabic,United Arab Emirates dirham (1:0.27),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/VereinigteArabischeEmirateSicherheit_node.html
+Asia,Uzbekistan,,yes,,Uzbek,"Uzbekistani som (1,000:0.44)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/UsbekistanSicherheit_node.html
+Asia,Vietnam,,yes,,Vietnamese,"Vietnamese dong (10,000:0.47)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/VietnamSicherheit.html
+Asia,Yemen,⚠,yes,,Arabic,Yemeni rial (100:0.46),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/JemenSicherheit_node.html
+"Asia, Europe",Azerbaijan,,yes,,Azerbaijani,Azerbaijani manat (1:1.28),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/AserbaidschanSicherheit.html
+"Asia, Europe",Georgia,,no,360 days,Georgian,Georgian lari (1:0.57),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/GeorgienSicherheit_node.html
+"Asia, Europe",Kazakhstan,,yes,,"Kazakh, Russian",Kazakhstani tenge (100:0.54),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KasachstanSicherheit_node.html
+"Asia, Europe",Russia,,yes,,Russian,Russian ruble (100:2.96),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/RussischeFoederationSicherheit.html
+"Asia, Europe",Turkey,,no,90 days,Turkish,Turkish lira (1:0:44),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/TuerkeiSicherheit_node.html
+Australasia,Australia,,yes,available online (www.immi.gov.au),English,Australian dollar (1:0.90),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/AustralienSicherheit_node.html
+Australasia,New Zealand,,no,3 months,English,New Zealand dollar (1:0.80),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/NeuseelandSicherheit_node.html
+Australasia,Papua New Guinea,,no,"available at entry, 60 days","Tok Pisin, English, Hiri Motu",Papua New Guinean kina (1:0.41),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/PapuaNeuguineaSicherheit_node.html
+Europe,Cyprus,,no,,"Greek, Turkish",Euro (1:1.37),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/ZypernSicherheit_node.html
+Europe,Greece,,no,,Greek,Euro (1:1.37),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/GriechenlandSicherheit_node.html
+North America,Aruba,,no,30 days,,Aruban florin (1:0.56),
+North America,Belize,,no,1 month,English,Belize dollar (1:0.50),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/BelizeSicherheit_node.html
+North America,Cayman Islands,,no,,,,
+North America,Costa Rica,,no,90 days,Spanish,Costa Rican colón (100:0.20),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/CostaRicaSicherheit_node.html
+North America,Cuba,,yes,30 days,Spanish,Cuban peso (26.5:1),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KubaSicherheit_node.html
+North America,Curaçao,,no,14-30 days,,Netherlands Antillean guilder (1:0.57),
+North America,Dominican Republic,,no,60 days,Spanish,Dominican peso (100:2.40),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/DominikanischeRepublik_node.html
+North America,Guatemala,⚠,no,90 days,,Guatemalan quetzal (1:0.13),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/GuatemalaSicherheit_node.html
+North America,Haiti,⚠,no,3 months,"French, Haitian Creole",Haitian gourde (10:0.23),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/HaitiSicherheit_node.html
+North America,Jamaica,,no,90 days,"English, Patois","Jamaican dollar (10,000:99)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/JamaikaSicherheit_node.html
+North America,Mexico,,no,,Spanish,Mexican peso (100:7.9),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/MexikoSicherheit_node.html
+"North America, South America",Panama,,no,180 days; transfer ticket required,"Spanish, English, others",Panamanian balboa (1:1),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/PanamaSicherheit_node.html
+South America,Argentina,,no,90 days,Spanish,Argentine peso (1:0.15),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/ArgentinienSicherheit_node.html
+South America,Bolivia,,no,90 days,Spanish,Bolivian boliviano (1:0.14),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/BolivienSicherheit_node.html
+South America,Brazil,,no,3 months during 6 months,Portuguese (Brazilian),Brazilian real (1:0.41),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/BrasilienSicherheit_node.html
+South America,Chile,,no,90 days,Spanish,Chilean peso (100:0.20),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/ChileSicherheit_node.html
+South America,Columbia,,no,up to 180 days,Spanish,"Colombian peso (10,000:5.3)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/KolumbienSicherheit_node.html
+South America,Ecuador,,no,90 days,Spanish,"United States dollar
+",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/EcuadorSicherheit_node.html
+South America,Paraguay,,n/a,,English,"Paraguayan guaraní (10,000:2.21)",http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/ParaguaySicherheit_node.html
+South America,Peru,,no,183 days,Spanish,Peruvian nuevo sol (1:0.37),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/PeruSicherheit_node.html
+South America,Suriname,,yes,,Dutch,Surinamese dollar (1:0.31),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/SurinameSicherheit_node.html
+South America,Uruguay,,no,90 days,Spanish,Uruguayan peso (100:4.91),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/UruguaySicherheit_node.html
+South America,Venezuela,,no,90 days,Spanish,Venezuelan bolívar (1:0.16),http://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/Nodes/VenezuelaSicherheit_node.html
